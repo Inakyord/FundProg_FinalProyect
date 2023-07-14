@@ -1,0 +1,11 @@
+Instrucciones Minijuegos Inor
+
+El programa debe estar y ejecutarse en la misma carpeta que los archivos aquí anexados: "puntuaciones_1" y "puntuaciones_2".
+Si por alguna razón se abren y modifican los archivos manualmente, el programa ya no podría leerlos bien. Por lo que se anexan
+los archivos muestra 1 y muestra 2 que tienen el formato correcto de los otros dos archivos, solo se deberán copiar y pegar
+en ellos el formato. 
+
+A la hora de usar el programa para seleccionar cualquier cosa se necesita dar espacio. Y para regresarse o salir se usa la tecla
+"atras", "borrar", "delete", "backspace" o como se le conozca.
+
+Divertase mucho al usarlo. Y trate de mejorar sus puntajes.
